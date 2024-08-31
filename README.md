@@ -9,19 +9,19 @@ exercise.csv: Contains data related to exercise activities.
 model_training.ipynb: Jupyter Notebook for training and evaluating machine learning models.  
 app.py: Streamlit application to interact with the trained model.  
 
-1) Setup and Installation  
-    Clone the Repository  
-    git clone https://github.com/yourusername/your-repository.git  
-    cd your-repository  
+1)  Setup and Installation  
+      Clone the Repository  
+      git clone https://github.com/yourusername/your-repository.git  
+      cd your-repository  
 
-2) Set Up Environment    
+2)  Set Up Environment    
 
 3)  Install Dependencies  
-    Install the required packages using pip:  
-    pip install -r requirements.txt  
+      Install the required packages using pip:  
+      pip install -r requirements.txt  
 
-    Run the Streamlit Application:  
-    streamlit run app.py  
+      Run the Streamlit Application:  
+      streamlit run app.py  
     
 **Usage**  
 Open model_training.ipynb in Jupyter Notebook to train and evaluate the machine learning models.  
