@@ -22,7 +22,8 @@ This project involves analyzing exercise and calorie data to predict calories bu
 
       - Run the Streamlit Application:  
         streamlit run app.py  
-    
+4)  Ensure that you use your email and Twilio credentials before running. 
+       
 **Usage**  
 - Open model_training.ipynb in Jupyter Notebook to train and evaluate the machine learning models.  
 - Use the Streamlit app (main.py) to interact with the trained model and make predictions.  
